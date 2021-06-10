@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Test Git2" />
         <module name="ShipComparators" />
+        <module name="TestGit2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
